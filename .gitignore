@@ -1,0 +1,14 @@
+logs
+*.pyc
+*.out 
+out.*
+__pycache__
+addsrc
+tools/defects4j
+temp
+final_output
+output*
+repos
+data
+workspace*
+__pycache__
